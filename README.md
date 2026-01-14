@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rotua Eka Wati Br. Sitorus</h1>
 <h3 align="center"> One Direction </h3>
 
-
-- 👨‍💻 You can also check out my portfolio at https://portfolio-rotuaekawati.vercel.app/
-
-
 - ⚡ Fun fact **Zeroo**
 
 <h3 align="left">Connect with me:</h3>
