@@ -4,7 +4,6 @@
 
 - 👨‍💻 You can also check out my portfolio at https://portfolio-rotuaekawati.vercel.app/
 
-- 📫 How to reach me **rotuaekawati414@gmail.com**
 
 - ⚡ Fun fact **Zeroo**
 
